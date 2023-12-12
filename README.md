@@ -1,1 +1,2 @@
 # Joker
+cd Joker
